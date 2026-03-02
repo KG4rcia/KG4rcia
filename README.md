@@ -4,15 +4,10 @@
 
 ---
 <p align="center">
-  <img src="img/Kauan.png" width="600">
+  <img src="img/Kauan2.png" width="600">
 </p>
 
 ---
 
 **Sobre mim** 🗂️
-
-- *Desenvolvedor Back-end.*
-
-- *Desenvolvedor Java*
- 
-- *Desenvolvedor Python*
+- *Atualmente programando em Java em Python 👾*
