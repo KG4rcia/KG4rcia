@@ -10,4 +10,4 @@
 ---
 
 **Sobre mim** 🗂️
-- *Atualmente programando em Java em Python 👾*
+- *Atualmente programando em Java e Python 👾*
