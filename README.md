@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="./img/Sem Título-1.png" width="600">
+  <img src="img/Kauan.png" width="600">
 </p>
 
 ---
