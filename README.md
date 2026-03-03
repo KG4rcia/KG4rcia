@@ -14,7 +14,7 @@
 
 - ***Tenho interesse em arquitetura de sistemas, organização de código e construção de aplicações escaláveis.***
 ---
-**Linguagens e tecnologias** 
+**Linguagens e Tecnologias** 👾
 
 <img
     align="left"
