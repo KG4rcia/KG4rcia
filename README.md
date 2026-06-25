@@ -1,6 +1,6 @@
 # 💻 | Kauan Garcia
 
-- ***E a í! Me chamo Kauan Garcia, tenho 19 anos e atualmente estou cursando o 3° período de Ciência da Computação na Universidade Braz Cubas!***
+- ***E a í! Me chamo Kauan Garcia, tenho 19 anos e atualmente estou cursando Ciência da Computação!***
 
 ---
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 **Sobre mim** 🗂️
-- **`Desenvolvedor backend`**
+- **`Desenvolvedor Backend`**
 
 - ***Tenho interesse em arquitetura de sistemas, organização de código e construção de aplicações escaláveis.***
 ---
